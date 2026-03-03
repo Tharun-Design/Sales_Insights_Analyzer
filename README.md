@@ -38,7 +38,7 @@ The dataset is loaded and analyzed using **Pandas**.
 
 ---
 
-# 🔍 Key Analysis Performed
+# Key Analysis Performed
 
 ## Data Exploration
 - Viewing dataset structure
@@ -78,7 +78,7 @@ Some examples of insights that can be extracted:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 **Programming Language**
 - Python
