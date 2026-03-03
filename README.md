@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis with Python
+# Sales Data Analysis with Python
 
 A data analytics project that explores and analyzes business order data using **Python, Pandas, and Matplotlib** to extract meaningful insights about sales, profit, and regional performance.
 
@@ -6,7 +6,7 @@ This project demonstrates how raw business data can be transformed into useful i
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 Businesses generate large volumes of transaction data every day. Analyzing this data helps organizations understand performance, identify trends, and make better decisions.
 
@@ -22,7 +22,7 @@ The analysis is performed using Python in a Jupyter Notebook environment.
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains information about customer orders including:
 
@@ -66,7 +66,7 @@ Types of visualizations used:
 
 ---
 
-# 📈 Insights Generated
+# Insights Generated
 
 Some examples of insights that can be extracted:
 
@@ -93,7 +93,7 @@ Some examples of insights that can be extracted:
 
 ---
 
-# ▶️ How to Run the Project
+# How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -117,7 +117,7 @@ Or run it in **Google Colab**.
 
 ---
 
-# 📊 Example Visualizations
+# Example Visualizations
 
 The project includes visualizations such as:
 
@@ -130,7 +130,7 @@ These visualizations help businesses quickly understand their performance.
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 Through this project I practiced:
 
@@ -142,7 +142,7 @@ Through this project I practiced:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible extensions of this project:
 
@@ -154,7 +154,7 @@ Possible extensions of this project:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Tharun Kumar S**
 
@@ -163,6 +163,6 @@ Machine Learning | Data Analytics | Artificial Intelligence
 
 ---
 
-# ⭐ Support
+# Support
 
 If you found this project useful, consider giving it a star on GitHub.
